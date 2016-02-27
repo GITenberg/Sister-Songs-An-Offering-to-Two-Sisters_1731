@@ -1,0 +1,23 @@
+_repo: Sister-Songs-An-Offering-to-Two-Sisters_1731
+creator:
+  author:
+    agent_name: Thompson, Francis
+    birthdate: 1859
+    deathdate: 1907
+    gutenberg_agent_id: '608'
+    url: http://www.gutenberg.org/2009/agents/608
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Thompson
+description: ''
+gutenberg_issued: '1999-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1731'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+title: 'Sister Songs: An Offering to Two Sisters'
+url: http://www.gutenberg.org/ebooks/1731
