@@ -1,5 +1,8 @@
 _repo: Sister-Songs-An-Offering-to-Two-Sisters_1731
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 1731-h/images/coverb.jpg
 creator:
   author:
     agent_name: Thompson, Francis
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/608
     wikipedia: http://en.wikipedia.org/wiki/Francis_Thompson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1731#Sister-Songs-An-Offering-to-Two-Sisters
 gutenberg_issued: '1999-05-01'
 gutenberg_type: Text
 identifiers:
